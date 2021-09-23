@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Coding_Games
 {
-    internal class Program
+    internal class War
     {
         static List <int> deck1 = new List<int>();
         static List <int> deck2 = new List<int>();
