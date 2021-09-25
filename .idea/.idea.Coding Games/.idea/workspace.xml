@@ -6,15 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3056505-9127-44db-8073-1e1e97c51a5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TelefonNumbers/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TelefonNumbers/TelefonNumbers.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TelefonNumbers/TelefonNumbers.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Coding Games/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Coding Games/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Coding Games/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Coding Games/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Games.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Games.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Games/Coding Games.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/War/War.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Games/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/War/War.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Games/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/War/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TelefonNumbers/TelefonNumbers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TelefonNumbers/TelefonNumbers.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +91,8 @@
       <option name="presentableId" value="Default" />
       <updated>1632243795393</updated>
       <workItem from="1632243797105" duration="10104000" />
-      <workItem from="1632425062890" duration="2261000" />
+      <workItem from="1632425062890" duration="2336000" />
+      <workItem from="1632577039412" duration="2625000" />
     </task>
     <servers />
   </component>
