@@ -7,7 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d3056505-9127-44db-8073-1e1e97c51a5b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Coding Games/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Coding Games/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TelefonNumbers/TelefonNumbers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TelefonNumbers/TelefonNumbers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/War/War.cs" beforeDir="false" afterPath="$PROJECT_DIR$/War/War.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
       <option value="$PROJECT_DIR$/Coding Games/Program.cs" />
       <option value="$PROJECT_DIR$/TelefonNumbers/Program.cs" />
       <option value="$PROJECT_DIR$/TelefonNumbers/TelefonNumbers.cs" />
+      <option value="$PROJECT_DIR$/War/War.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1yST3mkYVCE8km4WKnjONvurSXw" />
@@ -92,7 +93,7 @@
       <updated>1632243795393</updated>
       <workItem from="1632243797105" duration="10104000" />
       <workItem from="1632425062890" duration="2336000" />
-      <workItem from="1632577039412" duration="2625000" />
+      <workItem from="1632577039412" duration="5682000" />
     </task>
     <servers />
   </component>
