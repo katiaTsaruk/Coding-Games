@@ -20,14 +20,17 @@ namespace Coding_Games
             while (deck1.Count > 0 && deck2.Count > 0 && winnerNum != 0)  
             {
                 winnerNum = Move();
+                
+                Console.WriteLine();
                 Console.WriteLine(roundsAmount);
                 foreach(int card in deck1)
                 {
-                     Console.WriteLine(card);
+                     Console.Write(card+ " ");
                 }
+                Console.WriteLine();
                 foreach(int card in deck2)
                 {
-                    Console.WriteLine(card);
+                    Console.Write(card+ " ");
                 }
             }
             
@@ -44,9 +47,12 @@ namespace Coding_Games
             for (int i = 0; i < playedCardsAmount; i++)
             {
                 winnerCards.Add(deck1[0]);
+                deck1.Remove(deck1[0]);
+            }
+            for (int i = 0; i < playedCardsAmount; i++)
+            {
                 winnerCards.Add(deck2[0]);
-                looserCards.Remove(looserCards[0]);
-                winnerCards.Remove(winnerCards[0]);
+                deck2.Remove(deck2[0]);
             }
         }
 
